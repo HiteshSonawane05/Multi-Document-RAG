@@ -63,6 +63,8 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
 10. The LLM generates a context-aware response.
 11. The system returns the final answer along with document metadata.
 
+```text
+
                  User
                    │
                    ▼
@@ -102,7 +104,7 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
                    │
                    ▼
                 User
-
+```
 
 
 # 📂 Folder Structure
