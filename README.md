@@ -103,6 +103,8 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
                    ▼
                 User
 
+
+
 Multi-Modal-RAG/
 │
 ├── load_documents.py
