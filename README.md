@@ -105,16 +105,20 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
 
 
 
-Multi-Modal-RAG/
+# 📂 Folder Structure
+
+```text
+Multi-Document-RAG/
 │
-├── load_documents.py
-├── generator.py
-├── model.py
 ├── app.py
+├── generator.py
+├── load_documents.py
+├── model.py
 ├── requirements.txt
-├── .env
 ├── README.md
-└── pdfs/
+├── .gitignore
+└── pdfs/ (ignored)
+```
 
 
 ## ⚙️ Installation
