@@ -63,6 +63,8 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
 10. The LLM generates a context-aware response.
 11. The system returns the final answer along with document metadata.
 
+```text
+
                  User
                    │
                    ▼
@@ -102,17 +104,23 @@ This project demonstrates the practical implementation of Retrieval-Augmented Ge
                    │
                    ▼
                 User
+```
 
-Multi-Modal-RAG/
+
+# 📂 Folder Structure
+
+```text
+Multi-Document-RAG/
 │
-├── load_documents.py
-├── generator.py
-├── model.py
 ├── app.py
+├── generator.py
+├── load_documents.py
+├── model.py
 ├── requirements.txt
-├── .env
 ├── README.md
-└── pdfs/
+├── .gitignore
+└── pdfs/ (ignored)
+```
 
 
 ## ⚙️ Installation
