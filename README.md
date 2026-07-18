@@ -173,7 +173,6 @@ python app.py
 
 - Support image-based documents
 - OCR integration for scanned PDFs
-- Streamlit web interface
 - FastAPI REST APIs
 - Authentication
 - Persistent vector database
